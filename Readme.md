@@ -1,6 +1,6 @@
 # Hands on tech lab
 
-Welcome to the *86 400* tech lab!
+Welcome to the *ubank* tech lab!
 
 ## About
 
